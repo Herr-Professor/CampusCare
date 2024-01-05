@@ -51,6 +51,8 @@ h1 {
   padding: 0.8rem 3rem;
   border-radius: 30px;
   font-weight: 700;
+  background: #008080; /* teal */
+  color: white;
 }
 
 .container .btn-primary:hover {
@@ -58,7 +60,7 @@ h1 {
   border-radius: 30px;
   font-weight: 700;
   background: white;
-  color: #0275d8;
+  color: #008080; /* teal */
 }
 
 /*=== GRID SECTION ===*/
@@ -90,15 +92,15 @@ h1 {
   border-radius: 30px;
   font-weight: 700;
   background: white;
-  color: #0275d8;
+  color: #800080; /* purple */
 }
 
 .jumbotron .container .btn-light:hover {
   padding: 0.8rem 3rem;
   border-radius: 30px;
   font-weight: 700;
-  background: #0275d8;
-  color: #ffffff;
+  background: #800080; /* purple */
+  color: white;
 }
 
 /*=== CONTENT STYLE ===*/
